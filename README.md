@@ -8,7 +8,6 @@ The project includes the following files:
 - **ppe_detection_video.py**: Detects PPE in video files and prints missing PPE statements.
 - **ppe_detection_image.py**: Detects PPE in a single image and prints missing PPE statements.
 - **requirements.txt**: List of required Python libraries to run the project.
-- **sample video**: sample video to test the code
 - **README.md**: This file.
 
 ## Features
